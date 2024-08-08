@@ -3,6 +3,8 @@ Nonparametric bounds for the causal effect in a binary instrumental variable mod
 
 Balke-Pearl nonparametric bounds for the average causal effect implemented Use bpbounds With STATA 18
 
+https://www.youtube.com/watch?v=_us78lJHt1A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
